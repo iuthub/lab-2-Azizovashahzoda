@@ -1,0 +1,31 @@
+h1{
+ color: #6A5ACD;
+ font-family: Courier New;
+ text-align: center;
+ text-decoration: underline;
+ font-size: big;
+}
+
+h2 {
+ color: #B22222;
+ font-family: Verdana;
+}
+
+html{
+ background-color: gold;
+}
+
+p, ol, ul{
+ color: black;
+ background-color: greenish;
+ list-style-type: circle;
+ font-size: small;
+ font-weight: bold
+}
+
+ body{
+ 	font-size: 16px;
+ }
+
+
+
